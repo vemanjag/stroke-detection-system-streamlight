@@ -38,7 +38,7 @@ if st.button('Predict'):
 
     payload = json.dumps({'dataframe_records': [[item for item in options.values()]]})
     response = requests.post(
-        url=f"http://localhost:5001/invocations",
+        url=f"http://18.217.19.237:5001/invocations",
         data=payload,
         headers={"Content-Type": "application/json"},
     )
