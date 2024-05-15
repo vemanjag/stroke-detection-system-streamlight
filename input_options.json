@@ -1,0 +1,58 @@
+{
+  "age": [
+    0,
+    82
+  ],
+  "hypertension": [
+    "No",
+    "Yes"
+  ],
+  "heart_disease": [
+    "No",
+    "Yes"
+  ],
+  "avg_glucose_level":[
+    55.12,
+    271.74
+  ],
+  "bmi":[
+    10.3,
+    97.6
+  ],
+  "ever_married_Yes":[
+    "No",
+    "Yes"
+  ],
+  "work_type_Never_worked":[
+    "No",
+    "Yes"
+  ],
+  "work_type_Private":[
+    "No",
+    "Yes"
+  ],
+  "work_type_Self-employed":[
+    "No",
+    "Yes"
+  ],
+  "work_type_children":[
+    "No",
+    "Yes"
+  ],
+  "Residence_type_Urban":[
+    "No",
+    "Yes"
+  ],
+  "smoking_status_formerly smoked":[
+    "No",
+    "Yes"
+  ],
+  "smoking_status_never smoked":[
+    "No",
+    "Yes"
+  ],
+  "smoking_status_smokes":[
+    "No",
+    "Yes"
+  ]
+}
